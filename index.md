@@ -5,19 +5,21 @@ layout: home
 
 This is a prototype documentation website for FRC Team 8334 [Titan Robotics]
 
+##What is this documentation?
+
 This documention is designed as a reference for developers and a guide to getting started for new programmers.
 
-Repositories 
+##Code & Documentation
 - [2024 code]
 - [2024 preseason]
 - [2023 code]
 - [This documentation]
 
-Here are some guides to our code 
-- [setting up our programming environment]
-- [creating a new autononmus mission]
+##Guides
+- [Getting started] Our getting started guide walks you through downloading the code, installing dependencies, and building your first robot program
+- [creating a new autonomus mission]
 
-Here are some helpful resourses
+##Helpful Resourses
 - [WPI Lib]
 
 ----
