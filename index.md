@@ -31,5 +31,4 @@ Here are some helpful resourses
 [2024 preseason]:https://github.com/TCArobotics/TitanRobotics2024Prep
 [2023 code]:https://github.com/TCArobotics/TitanRobotics2023
 [This documentation]: https://github.com/Team8334/Docs
- [setting up our programming environment]: https://team8334.github.io/Docs/GettingStarted.md
- 
+[setting up our programming environment]: {% link docs/GettingStarted.md %}
