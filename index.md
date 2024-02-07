@@ -1,5 +1,6 @@
 ---
 title: Titan Robotics: FRC Team 8334 Documentation
+layout: home
 ---
 
 **Welcome to the official documentation for FRC Team 8334, Titan Robotics!**
@@ -8,7 +9,8 @@ This website serves as a valuable resource for both **new programmers** and **ex
 
 ### What's Inside:
 
-* **Getting Started:** Dive right in with our beginner-friendly guide that walks you through setting up your development environment, downloading the code, and building your first robot program. [GettingStarted.md](docs/GettingStarted.md)
+* **Getting Started:** Dive right in with our beginner-friendly guide that walks you through setting up your development environment, downloading the code, and building your first robot program. 
+    * [GettingStarted.md](docs/GettingStarted.md)
 * **Code & Documentation:** Explore our code repositories:
     * [2024 Robot Code](https://github.com/Team8334/TitanRobotics2024)
     * [2024 Preseason Code](https://github.com/TCArobotics/TitanRobotics2024Prep)
