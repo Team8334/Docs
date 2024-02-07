@@ -1,6 +1,6 @@
 ---
-title: Titan Robotics: FRC Team 8334 Documentation
 layout: home
+title: Titan Robotics FRC Team 8334 Documentation
 ---
 
 **Welcome to the official documentation for FRC Team 8334, Titan Robotics!**
@@ -10,7 +10,7 @@ This website serves as a valuable resource for both **new programmers** and **ex
 ### What's Inside:
 
 * **Getting Started:** Dive right in with our beginner-friendly guide that walks you through setting up your development environment, downloading the code, and building your first robot program. 
-    * [GettingStarted.md](docs/GettingStarted.md)
+    * [GettingStarted.md]({% link docs/GettingStarted.md%})
 * **Code & Documentation:** Explore our code repositories:
     * [2024 Robot Code](https://github.com/Team8334/TitanRobotics2024)
     * [2024 Preseason Code](https://github.com/TCArobotics/TitanRobotics2024Prep)
@@ -32,3 +32,4 @@ We encourage all team members to contribute to our documentation and codebase. D
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
