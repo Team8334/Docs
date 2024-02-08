@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://team8334.github.io/docs
 
-favicon_ico: Team8334/Docs/assets/software.logo.ico
-logo: Team8334/Docs/assets/software.logo.png
+favicon_ico: /Team8334/Docs/assets/software.logo.ico
+logo: /Team8334/Docs/assets/software.logo.png
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
