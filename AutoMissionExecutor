@@ -1,0 +1,13 @@
+runs a mission
+start:
+  starts Thread
+isStarted:
+
+stop:
+
+isInterupted:
+
+interupt:
+
+resume:
+  mission resumes
