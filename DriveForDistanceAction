@@ -6,6 +6,6 @@ Start Function:
 Update Function:
   It calculates the PID and moves the robot forward.
 isFinished Function:
-  It gets the current time on the timer and makes it greater than or equal to the endAfterSeconds variable.
+  stopped if timer is greater than seconds or it is at the setpoint.
 done Function:
   stops all robot code and movement.
