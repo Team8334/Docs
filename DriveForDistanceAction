@@ -1,1 +1,11 @@
+#
 
+This Drive For Distance Action enables a person to make a distance for the robot to move, meausured in meters.
+Start Function:
+  It starts the timer and gets the desired distance
+Update Function:
+  It calculates the PID and moves the robot forward.
+isFinished Function:
+  It gets the current time on the timer and makes it greater than or equal to the endAfterSeconds variable.
+done Function:
+  stops all robot code and movement.
