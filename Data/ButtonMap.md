@@ -1,3 +1,7 @@
+---
+layout: default
+title: ButtonMap
+---
 Documents all of the Buttons and Joysticks of the controllers!
 
 enum:
