@@ -1,3 +1,9 @@
+---
+layout: default
+title: BackLock on Action
+nav_order: 4
+---
+
 # 
 The back Lock on Action funtion is getting the current targeting, limelight, drivebase, and postion.
 It is then setting the PID controller to the values stated above. 
