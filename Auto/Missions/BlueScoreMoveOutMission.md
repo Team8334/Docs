@@ -1,4 +1,8 @@
-#
+---
+layout: default
+title: BlueScoreMoveOutMission
+nav_order: 2
+---
 
 Should score and then move away from auto
 mission is activated in shuffle board
