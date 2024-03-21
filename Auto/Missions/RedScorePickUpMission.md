@@ -1,4 +1,8 @@
-#
+---
+layout: default
+title: RedScorePickUpMission
+nav_order: 2
+---
 
 scores, moves out, and picks up a note
 mission activated in shuffle board
