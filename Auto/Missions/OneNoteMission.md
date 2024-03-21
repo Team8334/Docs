@@ -1,4 +1,8 @@
-#
+---
+layout: default
+title: OneNoteMission
+nav_order: 2
+---
 
 scores one note!
 mission activated in shuffle board
