@@ -1,4 +1,8 @@
-#
+---
+layout: default
+title: RunningScoringAction
+nav_order: 2
+---
 
 activates all scoring mechanisms in order to score
 
