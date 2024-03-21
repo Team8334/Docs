@@ -1,4 +1,8 @@
-#
+---
+layout: default
+title: RampAction
+nav_order: 2
+---
 
 Activates ramp code in auto
 
