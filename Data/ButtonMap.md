@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ButtonMap
+nav_order: 2
 ---
 Documents all of the Buttons and Joysticks of the controllers!
 
