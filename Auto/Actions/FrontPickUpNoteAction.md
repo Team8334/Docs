@@ -1,4 +1,8 @@
-#
+---
+layout: default
+title: FrontPickUpNoteAction
+nav_order: 2
+---
 
 Description
 
