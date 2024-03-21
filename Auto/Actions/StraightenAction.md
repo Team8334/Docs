@@ -1,4 +1,8 @@
-#
+---
+layout: default
+title: StraightenAction
+nav_order: 2
+---
 
 Turns robot to desired degrees
 
